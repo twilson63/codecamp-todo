@@ -1,0 +1,21 @@
+{
+  "name": "todo-pouch2",
+  "version": "0.0.0",
+  "authors": [
+    "Tom Wilson <tom@jackhq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap.css": "~2.3.2",
+    "angular": "~1.0.8",
+    "angular-pouch": "~0.0.2"
+  }
+}

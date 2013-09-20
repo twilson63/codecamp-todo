@@ -1,0 +1,25 @@
+{
+  "name": "angular-pouch",
+  "version": "0.0.2",
+  "main": "angular-pouch.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "pouchdb-nightly.min": "http://download.pouchdb.com/pouchdb-nightly.min.js",
+    "angular": "~1.0.7"
+  },
+  "homepage": "https://github.com/twilson63/angular-pouch",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.2",
+    "commit": "32681fa46b919f25f913bc0dd9fdd02107e58502"
+  },
+  "_source": "git://github.com/twilson63/angular-pouch.git",
+  "_target": "~0.0.2",
+  "_originalSource": "angular-pouch",
+  "_direct": true
+}
